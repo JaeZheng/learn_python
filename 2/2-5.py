@@ -1,0 +1,1 @@
+print("Franz Kafka once said," + '"God gives the nuts, but he does not crack them."')
